@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyOwnBusinessApp</string>
+    <string name="selectionMenuLoans">Loans</string>
+    <string name="selectionMenuSales">Sales</string>
+    <string name="selectionMenuWastes">Wastes</string>
+    <string name="selectionMenuLoans">Loans</string>
 </resources>
